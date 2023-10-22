@@ -2,4 +2,7 @@
 members = [
     "default_trait",
     "auto_trait_impl",
+    "trait_object_with_generic_trait",
+    "struct_generic_impl",
+    "phantom_data_for_id_type",
 ]

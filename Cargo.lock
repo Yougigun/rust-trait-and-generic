@@ -9,3 +9,15 @@ version = "0.1.0"
 [[package]]
 name = "default_trait"
 version = "0.1.0"
+
+[[package]]
+name = "phantom_data_for_id_type"
+version = "0.1.0"
+
+[[package]]
+name = "struct_generic_impl"
+version = "0.1.0"
+
+[[package]]
+name = "trait_object_with_generic_trait"
+version = "0.1.0"
