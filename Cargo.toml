@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "default_trait",
+    "auto_trait_impl",
+]
