@@ -5,4 +5,6 @@ members = [
     "trait_object_with_generic_trait",
     "struct_generic_impl",
     "phantom_data_for_id_type",
+    "phantom_data_for_customer_case",
+    "using_generic_imple_multiple_same_trait_for_one_generic_struct_with_different_type",
 ]

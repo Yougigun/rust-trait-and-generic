@@ -11,6 +11,10 @@ name = "default_trait"
 version = "0.1.0"
 
 [[package]]
+name = "phantom_data_for_customer_case"
+version = "0.1.0"
+
+[[package]]
 name = "phantom_data_for_id_type"
 version = "0.1.0"
 
@@ -20,4 +24,8 @@ version = "0.1.0"
 
 [[package]]
 name = "trait_object_with_generic_trait"
+version = "0.1.0"
+
+[[package]]
+name = "using_generic_imple_multiple_same_trait_for_one_generic_struct_with_different_type"
 version = "0.1.0"
